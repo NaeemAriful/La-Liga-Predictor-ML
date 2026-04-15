@@ -1,4 +1,4 @@
-# ⚽ La Liga Match Predictor (1998–2024)
+# ⚽ La Liga Match Predictor (2000–2025)
 
 This project uses **26 years of historical La Liga data** to predict football match outcomes (Win, Loss, or Draw). 
 
